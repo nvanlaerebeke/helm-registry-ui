@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: registry-ui-config
+data:
+  URL: https://registry.crazyzone.be
+  REGISTRY_TITLE: "registry.crazyzone.be"
+  DELETE_IMAGES: "true"
