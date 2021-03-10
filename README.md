@@ -1,1 +1,1 @@
-# helm-registry-ui
+# helm-registry
